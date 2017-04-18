@@ -5,8 +5,8 @@
    "theme":{
       "images":{
          "theme_frame":"theme_frame.png",
-         "theme_tab_background":"theme_frame.png",
-         "theme_toolbar":"theme_frame.png",
+         "theme_tab_background":"theme_tab_background.png",
+         "theme_toolbar":"theme_tab_background.png",
          "theme_ntp_background":"theme_frame.png",
          "theme_frame_overlay" : "theme_frame.png",
          "theme_ntp_attribution" : "theme_frame.png"
@@ -18,11 +18,7 @@
          "ntp_link" : [36, 70, 0],
          "ntp_section" : [207, 221, 192],
          "button_background" : [225, 225, 225],
-         "tab_background_text":[
-            255,
-            255,
-            255
-         ]
+         "tab_background_text":[0, 0, 0]
        },
        "tints" : {
          "buttons" : [0.33, 0.5, 0.47]
